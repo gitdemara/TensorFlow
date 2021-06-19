@@ -1,3 +1,6 @@
+
+
+This is Demara making edits to this tensorflow file that should only be in my locally forked copy of TensorFlow! Yay!
 # What's new in TensorFlow 2.x
 
 The following are all the changes coming in TensorFlow 2.x. Let's have a closer look at them:
